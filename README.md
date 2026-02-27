@@ -12,3 +12,4 @@ starten oder mit Python die [Webseite](https://github.com/realagentluca/Dart_and
 ```bash
 python3 -m http.server 8080
 ```
+<img width="485" height="693" alt="grafik" src="https://github.com/user-attachments/assets/d7cdb271-58ef-43e6-a94a-c02c0b668483" />
